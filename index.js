@@ -19,7 +19,7 @@ var questionOne = {
 }
 
 var questionTwo = {
-  question : 'In S2E6 "The Fight": What is Dwight\'s Sensei\'s name?? \n a. Ira\n b. George  \n c.Stuart d. My.Miyagi\n',
+  question : 'In S2E6 "The Fight": What is Dwight\'s Sensei\'s name?? \n a. Ira\n b. George  \n c.Stuart \n d. My.Miyagi\n',
   answer : 'a'
 }
 
@@ -60,7 +60,7 @@ var questionNine = {
 
 var questionTen = {
   question : 'In S7E17 "Todd Packer" What Office rivals join forces to prank and get rid of Todd Packer? \n a.Micheal and Toby \n b.Angela and Pam \n c.Angela and Kevin \n d. Jim and Dwight \n',
-  answer : 'b'
+  answer : 'd'
 }
 
 var questionArr = [questionOne, questionTwo, questionThree, questionFour, questionFive, questionSix, questionSeven, questionEight, questionNine, questionTen]
